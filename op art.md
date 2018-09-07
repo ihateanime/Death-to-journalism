@@ -12,3 +12,7 @@ Getulio Alviani (5 September 1939 in Udine – 24 February 2018 in Milan)[1] was
 ![alt text](https://github.com/ihateanime/helloworld/blob/master/210px-Plus-Reversed%2C-1960.jpg)
 Richard Anuszkiewicz, born May 23, 1930 is an American painter, printmaker, and sculptor.
 He at least knows about color theory, though my resoect for op art remains unchanged.
+
+![alt texxt](https://github.com/ihateanime/helloworld/blob/master/220px-Escultura-Cerro_Nutibara-Medellin.JPG)
+Carlos Cruz-Diez (born August 17, 1923 in Caracas) is a Venezuelan op artist.
+his art does not very much appear to be 'optical' at all- it seems more correct tocall him a simple abstract artist, but he is known for op art.
