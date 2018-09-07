@@ -5,5 +5,4 @@ The idea of op art is unacceptable to me.
 Abstract art is little more than an exercise in laziness and a bid for quick fame.
 
 
-[!etching]
-(https://github.com/ihateanime/helloworld/blob/master/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6356238.jpg)
+![alt text] (https://github.com/ihateanime/helloworld/blob/master/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6356238.jpg)
