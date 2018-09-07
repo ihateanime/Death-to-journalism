@@ -6,3 +6,4 @@ Abstract art is little more than an exercise in laziness and a bid for quick fam
 
 
 ![alt text](https://github.com/ihateanime/helloworld/blob/master/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6356238.jpg)
+Getulio Alviani is a bit better because he does his works by hand,but I still cannot say that he is remarkable in any way. He mostly does metal etchings which I have difficulty seeing as op art, since thy are not optical illusions.
